@@ -11,7 +11,7 @@ Here are some ideas to get you started: -->
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: i'm cool
 
-- Editors: VScode and Spyder Anaconda
+- Editors: <br>
 ![Spyder](https://img.shields.io/badge/Spyder-838485?style=for-the-badge&logo=spyder%20ide&logoColor=maroon)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
