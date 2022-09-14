@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started: -->
 
-I'm a norwegian high school student interning @MicrosoftNorway, part-time coder and aspiring computer scientist:)
+I'm a norwegian high school student interning @MicrosoftNorway. Part-time coder and aspiring computer scientist:)
 
 
 Tools: <br>
