@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started: -->
 
-I'm a norwegian high school student interning @MicrosoftNorway. Part-time coder and aspiring computer scientist:)
+Norwegian high school student interning @MicrosoftNorway. Part-time coder and aspiring computer scientist:)
 
 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
