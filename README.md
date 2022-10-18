@@ -17,3 +17,5 @@ Here are some ideas to get you started: -->
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
 ![C#](https://img.shields.io/badge/-csharp-05122A?style=flat&logo=csharp)&nbsp;
 
+Top languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mmajajohanne)](https://github.com/mmajajohanne/github-readme-stats)
