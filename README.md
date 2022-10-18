@@ -18,4 +18,4 @@ Here are some ideas to get you started: -->
 ![C#](https://img.shields.io/badge/-csharp-05122A?style=flat&logo=csharp)&nbsp;
 
 Top languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mmajajohanne)](https://github.com/mmajajohanne/github-readme-stats)
+(https://github-readme-stats.vercel.app/api/top-langs/?username=mmajajohanne)
