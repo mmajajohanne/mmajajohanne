@@ -1,9 +1,7 @@
 <!-- ### <👋 Hi, World! />
 
 <!--
-**mmajajohanne/mmajajohanne** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started: -->
+**mmajajohanne/mmajajohanne** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
