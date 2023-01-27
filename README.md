@@ -6,7 +6,6 @@
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/mmajajohanne/count.svg" />
 </p>
-[![Commits Badge](https://badges.pufler.dev/commits/monthly/mmajajohanne)](https://badges.pufler.dev)
 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
