@@ -1,4 +1,16 @@
+<div align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F77BC5&width=435&lines=Hi!+I'm+Maja!+Welcome+to+my+GitHub!" alt="Typing SVG" /></a>
+</div>
+<pre>
+    💼 BSC Robotics and Intelligent systems @ University of Oslo • Academic Tutor
+    💻 Python, Java, C++, Javascript, VHDL, ARM Assembly
+    📖 Machine learning • Control systems
+    🩷 Music • Reading • Travel • Code
+</pre>
+<div align="center">
+  <br>
+<img src="https://media.tenor.com/l9Y_Ya6tAAIAAAAj/ribbon-cute.gif" width=80>
+<br><br>
 
-<a href="https://www.linkedin.com/in/majajmarj/">
-  <img width="256" height="256" alt="image" src="https://github.com/user-attachments/assets/b4d4c374-8686-4425-b33f-5ee1c9de7a14" />
-</a>
+[![](https://img.shields.io/badge/linkedin-ff66ab)](https://www.linkedin.com/in/majajmarj/)
+</div>
