@@ -5,11 +5,9 @@
     💼 BSC Robotics and Intelligent systems @ University of Oslo • Academic Tutor
     💻 Python, Java, C++, Javascript, VHDL, ARM Assembly
     📖 Machine learning • Control systems
-    🩷 Music • Reading • Travel • Code
 </pre>
 <div align="center">
   <br>
-<img src="https://media.tenor.com/l9Y_Ya6tAAIAAAAj/ribbon-cute.gif" width=80>
 <br><br>
 
 [![](https://img.shields.io/badge/linkedin-ff66ab)](https://www.linkedin.com/in/majajmarj/)
