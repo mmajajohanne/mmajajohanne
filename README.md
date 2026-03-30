@@ -4,7 +4,6 @@
 <pre>
     💼 BSC Robotics and Intelligent systems @ University of Oslo • Academic Tutor
     💻 Python, Java, C++, Javascript, VHDL, ARM Assembly
-    📖 Machine learning • Control systems
 </pre>
 <div align="center">
   <br>
