@@ -4,7 +4,7 @@
 <pre>
     💼 BSC Robotics and Intelligent systems @ University of Oslo • Academic Tutor
     💻 Python, Java, C++, Javascript, VHDL, ARM Assembly
-    📖 Autonomous Systems · Robotics · Perception · ML
+    📖 Autonomous Systems • Robotics • Perception • ML
 </pre>
 <div align="center">
   <br>
