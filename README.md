@@ -6,8 +6,15 @@
     💻 Python, Java, C++, Javascript, VHDL, ARM Assembly
     📖 Autonomous Systems • Robotics • Perception • ML
 </pre>
+
+<br>
+<br>
+
 <div align="center">
-  <br>
-<br><br>
-[![](https://img.shields.io/badge/linkedin-ff66ab)](https://www.linkedin.com/in/majajmarj/)
+<a href="https://www.linkedin.com/in/majajmarj/"><img src="https://img.shields.io/badge/linkedin-ff66ab"/></a> 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</div>
+
 </div>
